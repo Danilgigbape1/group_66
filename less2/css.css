@@ -1,0 +1,48 @@
+h1 {
+    background: red;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2{
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+.paragraph-3{
+    border-radius: 5px;
+    grid-template-columns: auto;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    box-decoration-break: clone;
+    color: aqua;
+
+}
+
+.el1{
+    border-radius: 5px;
+    grid-template-columns: auto;
+    box-shadow: 0px 5px 10px 0px rgba(0, 0, 0, 0.5);
+    font-size: 32pt;
+    padding-bottom: 60px;
+    padding-left: 20px;
+    
+}
+
+.el2{
+    padding-bottom: 60px;
+    padding-left: 20px;
+    margin-bottom: auto;
+    color: coral;
+}
+img{
+    padding-bottom: 60px;
+    font-size: 32pt;
+
+}
